@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+opencv-python
+numpy
+keras
+sqlalchemy
+# face_recognition  # uncomment if you have visual studio c++ build tools installed
